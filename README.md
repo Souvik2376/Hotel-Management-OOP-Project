@@ -5,3 +5,29 @@ separate thread as it can be done parallely. User defined exception is thrown if
 tries to book an already allotted room. Exception handling is properly done to deal with any
 kind of unexpected exception.
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Souvik2376/Hotel-Management-OOP-Project.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Compile The Java File
+
+```bash
+  javac Main.java
+```
+
+Run
+
+```bash
+  java Main
+```
